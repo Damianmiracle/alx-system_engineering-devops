@@ -1,1 +1,1 @@
-(2) the script prints the effective username of the current user
+(1) a script that switches for the current user to the user betty (2) the script that prints the effective username of the current user (3) the script that prints all the groups the current user is part of (4) the script that changes the owner of the file hello to the user betty
